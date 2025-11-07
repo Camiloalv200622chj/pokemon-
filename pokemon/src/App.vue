@@ -258,7 +258,7 @@ html, body {
   display: flex;
   flex-direction: column;
   font-family: 'Montserrat', sans-serif;
-  overflow: hidden;
+ 
   transition: background 0.5s ease;
 }
 
