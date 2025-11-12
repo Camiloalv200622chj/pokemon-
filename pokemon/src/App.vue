@@ -389,8 +389,6 @@ html, body {
   align-items: center;
   justify-content: center;
   padding: 0 30px 20px;
-  overflow: hidden;
-  max-height: calc(100vh - 280px);
 }
 
 .left-card, .center-panel, .right-panel {
